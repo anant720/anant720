@@ -29,5 +29,10 @@ I am a **B.Tech CSE student** at **MIT ADT University, Pune**, currently in **2n
 - WhatsApp: [+91 7597056872](https://wa.me/917597056872)  
 
 ---
+## 📚 Achievements
+
+- Cleared **JEE Main 2024** with a **96.4 percentile**
+
+---
 
 I love exploring **programming, cybersecurity, and tech projects**. Let's learn and grow together! 🚀
