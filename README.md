@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a **B.Tech Computer Science and Engineering student** at **MIT ADT University, Pune**, currently in my **second year** with a **specialization in Cybersecurity**. I have a strong interest in software development, computer networks, and cybersecurity, and I enjoy building practical, real-world projects while continuously improving my technical skills.
+I am a **B.Tech Computer Science and Engineering student** at **MIT ADT University, Pune**, currently in my **second year** with a **specialization in Cybersecurity**. I have a strong interest in software development, computer networks, cybersecurity, and web technologies, and I enjoy working on practical, real-world projects while continuously improving my technical skills.
 
 ---
 
@@ -32,10 +32,10 @@ I am a **B.Tech Computer Science and Engineering student** at **MIT ADT Universi
 - **Object-Oriented Programming in Java** – IBM (Coursera)  
   https://coursera.org/share/c2867e0f38ad955dd4be2a1f179ed3f3  
 
-- **HTML, CSS, and JavaScript for Web Developers** – Johns Hopkins University (Coursera)  
+- **HTML, CSS, and JavaScript for Web Developers** – University of California, Davis (Coursera)  
   https://coursera.org/share/65034878fcb218a396cddd5f8c2100ae  
 
-- **Introduction to Web Development** – Coursera  
+- **Introduction to Web Development** – University of California, Davis (Coursera)  
   https://coursera.org/share/b0cb7b463d07ce63aabbaa58dd211bed  
 
 - **Spoken Tutorial C and C++** – IIT Bombay  
@@ -64,4 +64,4 @@ I am a **B.Tech Computer Science and Engineering student** at **MIT ADT Universi
 
 ---
 
-I am actively seeking opportunities to learn, collaborate, and contribute to impactful technical projects.
+I am actively seeking opportunities to learn, collaborate, and contribute to meaningful technical projects.
