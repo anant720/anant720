@@ -1,88 +1,104 @@
-# ANANT SUTHAR
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Anant%20Suthar&fontSize=80&fontColor=ffffff&animation=fadeIn" />
+</div>
 
-**Cybersecurity & Full-Stack Developer**
+<h3 align="center">
+  Cybersecurity Specialist & Full-Stack Engineer
+</h3>
 
-📍 Pune, India · ✉️ [nntsuthar@gmail.com](mailto:nntsuthar@gmail.com) · 🔗 [github.com/anant720](https://github.com/anant720) · 💻 [LeetCode](https://leetcode.com/u/__anant72/) · 🏅 [HackerRank](https://www.hackerrank.com/profile/nntsuthar)
-
----
-
-## Summary
-
-Driven B.Tech Computer Science student specialising in Cybersecurity at MIT ADT University. Passionate about building secure, real-world solutions that bridge robust cybersecurity with modern full-stack development. Experienced with AI/ML-driven security tools, MERN stack applications, and cloud platforms. Actively pursuing internship and collaborative project opportunities.
-
----
-
-## Education
-
-**B.Tech in Computer Science — Cybersecurity** | *2024 – 2028*
-MIT ADT University, Pune
-
-**Higher Secondary (Class XII) — Science** | *2024*
-MDS Senior Secondary School • 84.60%
+<div align="center">
+  <p>
+    <strong>📍 Pune, India</strong> | 
+    <a href="mailto:nntsuthar@gmail.com">✉️ nntsuthar@gmail.com</a> |
+    <a href="https://leetcode.com/u/__anant72/">💻 LeetCode</a> | 
+    <a href="https://www.hackerrank.com/profile/nntsuthar">🏅 HackerRank</a>
+  </p>
+</div>
 
 ---
 
-## Experience
+## 👨‍💻 About Me
 
-**Fund Raising Head — Internship** | *Jan 2026*
-*Aapka Sahara Foundation*
+Driven B.Tech Computer Science student specializing in **Cybersecurity** at MIT ADT University. Passionate about building secure, real-world solutions that bridge robust cybersecurity with modern full-stack development. Experienced with AI/ML-driven security tools, MERN stack applications, and cloud platforms.
 
-- Contributed to outreach initiatives and supported fundraising activities to promote the organization's social mission.
-- Demonstrated strong communication skills by engaging networks and encouraging community participation for social impact.
+> **Status:** Actively pursuing Internship, Freelance, and Full-time Junior Engineering opportunities where I can leverage my deep understanding of security architecture and full-stack implementation.
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
-**GigFlow Marketplace** — *MERN · Stripe API*
-Full-stack freelance marketplace with secure authentication, real-time database, and payment gateway support. — [Live Demo](https://gig-flow-wine-alpha.vercel.app/)
+### 🛡️ [Sentinel Security Platform](https://github.com/anant720/Sentinel)
+**Stack:** `Node.js` • `Fastify` • `React 18` • `PostgreSQL` • `Redis` • `WebSockets`
+- Built a professional-grade, multi-tenant cybersecurity telemetry platform capable of high-throughput M2M ingestion.
+- Engineered 7 pluggable heuristic detection rules (catching Brute Force, Malicious Scanners, and Auth probes).
+- Implemented real-time WebSocket threat broadcasting directly to a custom SOC Analyst React Dashboard.
+- Designed granular RBAC authorization, secure JWT refresh families, and encrypted API Key management.
 
-**LiquidPass — E2E Encrypted Password Manager** — *MERN · AES-256-GCM · Web Crypto API*
-Zero-knowledge password vault with client-side AES-256-GCM encryption, PBKDF2 key derivation (600K iterations), Helmet.js hardened API, and rate limiting. Master password never leaves the browser.
+### 💼 [GigFlow Marketplace](https://gig-flow-wine-alpha.vercel.app/)
+**Stack:** `React` • `Node.js` • `MongoDB` • `Stripe API`
+- Developed a full-stack freelance marketplace with secure authentication, real-time database syncing, and live payment gateway integration.
 
-**SecurePass Analyzer** — *Security · zxcvbn*
-Cybersecurity tool analysing password strength using custom rules and zxcvbn, featuring attack simulations and breach detection.
+### 🔐 LiquidPass — E2E Encrypted Password Manager
+**Stack:** `React` • `AES-256-GCM` • `Web Crypto API` • `Helmet.js`
+- Architected a zero-knowledge password vault utilizing client-side AES-256-GCM encryption and PBKDF2 key derivation (600K iterations).
+- Hardened the backend API with Helmet.js and custom rate-limiting to prevent brute force cracking.
 
-**AI Guardian Engine** — *ML/AI · Python*
-AI-based system detecting scam and phishing messages in real-time with risk scoring and safe/suspicious classification.
+### 🤖 AI Guardian Engine
+**Stack:** `Python` • `Machine Learning` • `NLP`
+- Trained an AI-based system detecting scam and phishing messages in real-time, outputting dynamic risk scoring and automated safe/suspicious classifications.
 
-**PhishNetra** — *Cybersecurity · Python*
-Advanced phishing detection tool identifying malicious URLs and protecting users from cyber threats.
-
-**Campus Buddy** — *Google Apps Script*
-University information system providing centralised campus details, map navigation, 3D views, and event management.
-
----
-
-## Technical Skills
-
-| Category | Technologies |
-|---|---|
-| **Languages** | Java, Python, C, C++, JavaScript, HTML5, CSS3, C#, SQL |
-| **Web Dev** | React, MERN Stack, Node.js, Express.js, Next.js, Tailwind CSS, Vite, TypeScript, Socket.IO, REST API, Firebase |
-| **Cybersecurity** | Network Security, SIEM & IDS, Risk Management, Incident Response, Packet Analysis, Ethical Hacking, Cloud Security, OWASP, Cryptography, Penetration Testing |
-| **AI / ML** | Machine Learning, Python Libraries, OpenAI API, Gemini, Deepseek, Prompt Engineering |
-| **Databases / Cloud** | MongoDB, PostgreSQL, MS SQL Server, Oracle, Google Cloud, Microsoft Azure, Vercel |
-| **Tools** | Git, GitHub, VS Code, Postman, Linux CLI, SIEM Tools, Figma, Canva, Notion |
+### 📡 PhishNetra
+**Stack:** `Python` • `Cybersecurity`
+- Built an advanced phishing detection tool identifying malicious URLs to protect users from active cyber threats in real-time.
 
 ---
 
-## Certifications
+## 🛠️ Technical Arsenal
 
-- **Google Cybersecurity Professional Certificate** — Google *(9-course specialization)*
-- Foundations of Cybersecurity — Google
-- Connect and Protect: Networks & Network Security — Google
-- Bits and Bytes of Computer Networking — Google
-- Google Cloud Computing Foundations — Google Cloud
-- Object-Oriented Programming in Java — IBM
-- HTML, CSS, and JS for Web Devs — Johns Hopkins Univ.
-- Introduction to Web Development — UC Davis
-- Spoken Tutorial C & C++ — IIT Bombay
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🔒 Cybersecurity</h3>
+      <p>Network Security & SIEM<br>Risk & Incident Response<br>Penetration Testing (OWASP)<br>Cryptography</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>💻 Full-Stack Dev</h3>
+      <p>React, Next.js, Vite<br>Node.js, Express, Fastify<br>TypeScript, JavaScript<br>Tailwind CSS, WebSockets</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🗄️ Database & Cloud</h3>
+      <p>PostgreSQL, MongoDB<br>MS SQL Server, Oracle<br>Google Cloud, Azure<br>Docker, Redis, Vercel</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🧠 AI / Core</h3>
+      <p>Python, Java, C++<br>Machine Learning<br>OpenAI/Gemini APIs<br>Prompt Engineering</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Achievements
+## 🎓 Education & Certifications
 
-- **JEE Main 2024 Qualified** — Secured **96.4 Percentile**
-- **Hackathons:** AI for Bharat (AI solutions for Indian demographics) · AMD Slingshot (High-performance computing)
+**B.Tech in Computer Science — Cybersecurity** | *MIT ADT University, Pune (2024 – 2028)*
+- **JEE Main 2024:** Secured **96.4 Percentile**
 - Active competitive programmer on LeetCode and HackerRank
+
+**🎖️ Highlights & Certifications:**
+- Google Cybersecurity Professional Certificate *(9-course specialization)*
+- Google Cloud Computing Foundations
+- Object-Oriented Programming in Java — IBM
+- **Hackathons:** AI for Bharat, AMD Slingshot
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anant720&show_icons=true&theme=nord" alt="Anant's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anant720&theme=nord" alt="Anant's GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Security is not a product, but a process." - Bruce Schneier</i>
+</div>
