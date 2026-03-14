@@ -55,37 +55,17 @@ Driven B.Tech Computer Science student specializing in **Cybersecurity** at MIT 
 
 ## 🛠️ Technical Arsenal
 
-### 🔒 Cybersecurity
-![Network Security](https://img.shields.io/badge/-Network_Security-000000?style=for-the-badge&logo=shield&logoColor=white)
-![OWASP](https://img.shields.io/badge/-OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Cryptography](https://img.shields.io/badge/-Cryptography-000000?style=for-the-badge&logo=lock&logoColor=white)
-![SIEM](https://img.shields.io/badge/-SIEM_&_IDS-000000?style=for-the-badge&logo=datadog&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
-
 ### 💻 Full-Stack Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,tailwind,vite" />
 
 ### 🗄️ Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,gcp,azure,docker" />
 
 ### 🧠 Core & AI
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow" />
+
+### 🔒 Cybersecurity & Tools
+<img src="https://skillicons.dev/icons?i=kali,linux,github,vscode,postman,figma,notion" />
 
 ---
 
