@@ -130,7 +130,7 @@
 ```
 Architecture:  Ingest API  →  Detection Engine  →  Alert Queue  →  Live Dashboard
 Protocol:      Dual-mode — WebSocket (live) + HTTP polling (fallback)
-Detection:     9-rule heuristic engine  (brute-force · scanner abuse · auth anomalies)
+Detection:     14-rule heuristic engine  (brute-force · scanner abuse · auth anomalies)
 Targets:       Nikto fingerprints · Dirb scanner patterns · credential stuffing
 Multi-tenancy: Per-tenant API keys · RBAC (3 levels) · JWT refresh token rotation
 CI/CD:         GitHub Actions → Docker → automated integration tests
