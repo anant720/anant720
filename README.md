@@ -210,11 +210,6 @@ Breach DB: Have I Been Pwned API  →  cross-referenced against 600M+ leaked cre
           ▸  Hardware forensics  —  Recovering specs from Dell parts manifest CSV
           ▸  OSINT chaining      —  Multi-source identification challenge
 
-  [2026]  MIT ADT Cybersecurity Club CTF  →  ORGANIZER
-          ▸  Designed "The Phantom Service" — 5-stage exploit chain:
-             SSRF  →  JWT Alg Confusion  →  IDOR  →  OOB XXE  →  RCE
-          ▸  Ran club's first fully online internal CTF event
-
   Platforms:  TryHackMe  ·  PicoCTF  ·  HackerRank
 ```
 
